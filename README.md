@@ -8,9 +8,9 @@ I am a Software Engineer. I work with various technology platforms, which includ
 5. Code versioning - Git (Github, Bitbucket)
 
 Find me on:
-- [Twitter - Pat Wanjau](https://twitter.com/patwanjau)
-- [LinkedIn - Pat Wanjau](https://linkedin.com/in/patwanjau)
-- [StackOverflow - Patrick W](https://stackoverflow.com/users/1334330/patrick-w?tab=profile)
+- [Twitter](https://twitter.com/patwanjau)
+- [LinkedIn](https://linkedin.com/in/patwanjau)
+- [StackOverflow](https://stackoverflow.com/users/1334330/patrick-w?tab=profile)
 
 
 <!--
