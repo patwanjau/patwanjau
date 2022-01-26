@@ -6,6 +6,7 @@ I am a Software Engineer. I work with various technology platforms, which includ
 3. Relational Databases - Postgresql, MySQL/MariaDB and Sqlite3
 4. Web - JavaScript, Html5, Stylesheets (ReactJS Framework)
 5. Code versioning - Git (Github, Bitbucket)
+6. Build Tools - Gradle, Maven and SBT
 
 Find me on:
 - [Twitter](https://twitter.com/patwanjau)
